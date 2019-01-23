@@ -1,5 +1,7 @@
 # Data Engineer Challenges
 
+Questions 1 and 2 are meant to be answered with code, 3 and 4 don't require code but feel free to answer them as you see fit.
+
 ## Question 1
 
 ### Challenge A
